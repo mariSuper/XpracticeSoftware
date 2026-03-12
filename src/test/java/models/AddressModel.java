@@ -64,6 +64,4 @@ public class AddressModel {
     public void setPostal_code(String postal_code) {
         this.postal_code = postal_code;
     }
-
-
 }
